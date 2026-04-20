@@ -2,6 +2,13 @@
 __pycache__/
 sim_build/
 *.pyc
+simv
+*.vvp
+*.out
 
 # Results
 results.xml
+
+# Local environments
+venv/
+cocotb-env/
